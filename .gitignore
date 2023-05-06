@@ -1,0 +1,6 @@
+# 3D Export Data
+*.step
+*.stl
+
+# G-Code
+*.gcode
